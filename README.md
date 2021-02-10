@@ -46,3 +46,13 @@ localhost:3000/
 - From this page, you can create new articles or navigate to the edit page page. 
 - You can also display the content (body) of specific articles as well as delete articles.
 - You can also comment on a specific article.
+
+## Authors
+
+George Gbenle
+
+- github: [@george-shammar](https://github.com/george-shammar)
+- twitter: [@GeorgeShammar](https://twitter.com/GeorgeShammar)
+- linkedIn: [@George Gblenle](https://www.linkedin.com/in/georgegbenle/)
+
+Luis Felipe Angulo Torres
