@@ -57,6 +57,9 @@ George Gbenle
 
 Luis Felipe Angulo Torres
 
+- Github: [pipe2442](https://github.com/pipe2442)
+- Twitter: [@donCodigo_](https://twitter.com/donCodigo_)
+- Linkedin: [linkedin](https://www.linkedin.com/in/luis-felipe-angulo-torres-95098b139/)
 
 
 ## Contributing
