@@ -27,4 +27,14 @@ While there were no active developments with Javascript, some dependencies use J
 git clone URL/SSH key
 ```
 - If you don't have git you can download this project and unzip it.
-- Change directory into the folder the application is saved.
+- Change directory into the folder the application is saved in.
+- On your terminal, run rails server by typing the following command:
+
+```
+rails server
+```
+or 
+
+```
+rails s
+```
