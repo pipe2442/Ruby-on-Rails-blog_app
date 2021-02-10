@@ -12,3 +12,19 @@ The browser component of the application displays some contents with regular HTM
 
 ### Javascript
 While there were no active developments with Javascript, some dependencies use Javascript codes to run.
+
+### Prerequisites
+
+- Ruby 2.7.2
+- Rails 6.1
+- Terminal
+
+### Set Up
+
+- Go to the "Code" section of this repository and press the green button that says "Code". Copy the URL or the SSH key.
+- Go to the terminal and enter:
+```
+git clone URL/SSH key
+```
+- If you don't have git you can download this project and unzip it.
+- Change directory into the folder the application is saved.
