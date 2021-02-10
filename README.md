@@ -38,3 +38,11 @@ or
 ```
 rails s
 ```
+- Proceed to your web browser and type :
+```
+localhost:3000/
+```
+- The blog application's index page will be displayed with the different articles that were already created.
+- From this page, you can create new articles or navigate to the edit page page. 
+- You can also display the content (body) of specific articles as well as delete articles.
+- You can also comment on a specific article.
