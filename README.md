@@ -9,3 +9,6 @@ The project was built using mainly Ruby.
 
 ### HTML/CSS
 The browser component of the application displays some contents with regular HTML/CSS.
+
+### Javascript
+While there were no active developments with Javascript, some dependencies use Javascript codes to run.
