@@ -56,3 +56,19 @@ George Gbenle
 - linkedIn: [@George Gblenle](https://www.linkedin.com/in/georgegbenle/)
 
 Luis Felipe Angulo Torres
+
+
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page: https://github.com/pipe2442/Ruby-on-Rails-blog_app/issues
+
+### Show your support
+
+Give a ⭐️ if you like this project!
+
+### License
+
+This project is [MIT](./LICENSE) licensed.
